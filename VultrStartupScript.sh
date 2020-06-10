@@ -1,6 +1,6 @@
 #!/bin/sh
 
-PWD=pwd
+PWD=Qwe!2345
 PORT=443
 
 apt update
