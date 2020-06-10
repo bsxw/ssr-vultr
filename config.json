@@ -8,7 +8,7 @@
   "method": "aes-256-cfb",
   "protocol": "origin",
   "protocol_param": "",
-  "obfs": "palin",
+  "obfs": "plain",
   "obfs_param": "",
   "speed_limit_per_con": 0,
   "speed_limit_per_user": 0,
